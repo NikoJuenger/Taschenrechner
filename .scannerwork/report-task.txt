@@ -3,5 +3,5 @@ projectKey=NikoJuenger_Taschenrechner
 serverUrl=https://sonarcloud.io
 serverVersion=7.4.0.16482
 dashboardUrl=https://sonarcloud.io/dashboard?id=NikoJuenger_Taschenrechner
-ceTaskId=AWXIepI7uZvIo9En1tpn
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWXIepI7uZvIo9En1tpn
+ceTaskId=AWXIgUAKOkVm7ml0BKHG
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWXIgUAKOkVm7ml0BKHG
