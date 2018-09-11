@@ -1,8 +1,8 @@
-print("Hello World!")
-print("Test 1234")
+# Bug
+if param == 1:
+  openWindow()
+elif param == 2:
+  closeWindow()
+elif param == 1:            # Noncompliant
+  moveWindowToTheBackground()
 
-
-class MyClass(object):
-    def __init__(self):
-        self.message = 'Hello'
-        return self  # Noncompliant
